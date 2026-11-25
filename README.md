@@ -18,7 +18,7 @@ Saya mahasiswa Sistem Informasi di Universitas Andalas yang senang membangun apl
 <table>
   <tr>
     <td><a href="https://github.com/Biburs/B10-Transaksi-Checkout"><img src="./assets/card-logistik.svg" width="430" alt="FTI Logistik: Transaksi Checkout"></a></td>
-    <td><a href="https://github.com/duhaalul/Dream-Space"><img src="./assets/card-dreamspace.svg" width="430" alt="Dream Space"></a></td>
+    <td><img src="./assets/card-dreamspace.svg" width="430" alt="Dream Space (proyek klien)"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Shevaramadhan/mobile-lapakpindah"><img src="./assets/card-lapakpindah.svg" width="430" alt="LapakPindah"></a></td>
