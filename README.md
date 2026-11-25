@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ihsan-auliya-habiburrohim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/ihsnhbrm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:ihsan.habiburrohim@gmail.com"><img src="https://img.shields.io/badge/Email-0f2a2e?style=flat-square&logo=gmail&logoColor=2dd4bf" alt="Email"></a>
   <a href="https://github.com/Biburs?tab=repositories"><img src="https://img.shields.io/badge/Semua_repositori-0b1320?style=flat-square&logo=github&logoColor=white" alt="Repositori"></a>
 </p>
@@ -11,15 +12,6 @@
 ### Sedikit tentang saya
 
 Saya mahasiswa Sistem Informasi di Universitas Andalas yang senang membangun aplikasi dari ujung ke ujung: mulai dari desain di Figma, tampilan web atau mobile, REST API, database, sampai tes end-to-end yang memastikan semuanya benar-benar jalan.
-
-```ts
-const ihsan = {
-  fokus:     ["web full-stack", "mobile"],
-  sukaBikin: ["REST API", "fitur CRUD", "dokumen PDF otomatis", "tes E2E"],
-  sedang:    "mencari tempat kerja praktik / magang sebagai developer",
-  belajar:   ["TypeScript lebih dalam", "Bahasa Inggris"],
-};
-```
 
 ### Proyek pilihan
 
@@ -61,17 +53,6 @@ const ihsan = {
     </td>
   </tr>
 </table>
-
-### Cara saya bekerja
-
-```mermaid
-flowchart LR
-  A[Desain di Figma] --> B[UI: React / Flutter]
-  B --> C[REST API: Express]
-  C --> D[(MySQL / SQLite)]
-  D --> E[Tes E2E: Playwright]
-  E -->|umpan balik| A
-```
 
 <p align="center">
   <img src="./assets/footer.svg" width="880" alt="Terima kasih sudah mampir">
